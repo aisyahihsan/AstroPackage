@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\astropackage\astropackage\bin\Debug\astropackage.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\astropackage\astropackage\bin\Debug\astropackage.exe
+C:\Users\User\documents\visual studio 2015\Projects\astropackage\astropackage\bin\Debug\astropackage.pdb
+C:\Users\User\documents\visual studio 2015\Projects\astropackage\astropackage\obj\Debug\astropackage.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\astropackage\astropackage\obj\Debug\astropackage.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\astropackage\astropackage\obj\Debug\astropackage.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\astropackage\astropackage\obj\Debug\astropackage.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\astropackage\astropackage\obj\Debug\astropackage.exe
+C:\Users\User\documents\visual studio 2015\Projects\astropackage\astropackage\obj\Debug\astropackage.pdb
